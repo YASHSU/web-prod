@@ -2,6 +2,7 @@ import Patients from "views/Patients";
 import Appointments from "views/Appoinments.jsx";
 import Departments from "views/Departments.jsx";
 import EditDetails from "views/editProfile";
+import Reports from "views/reports";
 import React from "react";
 
 class Header extends React.Component {
