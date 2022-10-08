@@ -20,6 +20,10 @@ class Content extends React.Component {
         <h2>Content</h2>
         <p>The content text!!!</p>
       </div>
+      <div>
+        <h3>Content Read</h3>
+        <p>The Readable text!!!</p>
+      </div>
     );
   }
 }
