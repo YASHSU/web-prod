@@ -10,6 +10,7 @@ import EditDetails from "views/editProfile";
 import LabResults from "views/labresults";
 import Pharmacy from "views/pharmacy";
 import Reports from "views/reports";
+import News from "views/news";
 import Documents from "views/documents";
 
 const dashboardRoutes = [
