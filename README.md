@@ -1,2 +1,2 @@
 # web-prod
-Simple JS calcutor project
+Simple JS project
