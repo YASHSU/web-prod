@@ -28,6 +28,7 @@ ReactDOM.render(
       />
       <Redirect from="/" to="/signin" />
       <Redirect from="/admin" to="/admin/dashboard" />
+       
     </Switch>
   </BrowserRouter>,
   document.getElementById("root")
